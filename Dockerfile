@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/etcd:3.4.9-1
+FROM k8s.gcr.io/pause:3.2
 
