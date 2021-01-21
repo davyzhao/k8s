@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/metrics-server/metrics-server:v0.3.7
+FROM registry.access.redhat.com/rhel7/pod-infrastructure:latest
