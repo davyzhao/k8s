@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/goproxy:0.1
+FROM k8s.gcr.io/kubernetes-helm/tiller:v3.5
